@@ -28,6 +28,8 @@ For your own blue cup photo, an illustrative first edit brief is:
 
 After the edit, compare the full-size result with the original. Check the handle, edges, reflections, colors and any lettering. Record one correction at a time in the worksheet.
 
+New to photo editing? Follow the [first AI photo-edit walkthrough](https://brainbaby.ai/blog/edit-photos-with-ai-for-free-step-by-step-guide): choose a source photo, write one change and preservation requirements, check the allowance, then compare the result. Its editable background example can be carried into Brainbaby's Image Studio. Preparing the brief and downloading these worksheets are free; image jobs have separate account and credit limits.
+
 ## Presentation outlines
 
 | Topic | Slides | English | Türkçe |
