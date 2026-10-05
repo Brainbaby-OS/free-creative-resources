@@ -32,6 +32,8 @@ New to photo editing? Follow the [first AI photo-edit walkthrough](https://brain
 
 Choosing an editing workflow? The [AI image-editor selection and review guide](https://brainbaby.ai/blog/uncensored-ai-image-editor) explains when to edit a source photo, generate a new concept or make a precise manual correction. Use this worksheet to compare preserved details and record the displayed cost for each attempt. The guide explains creative-control labels and practical limits; it does not rank tools using invented benchmark results.
 
+Comparing tools for a new image concept? The [image-generator comparison guide](https://brainbaby.ai/blog/uncensored-ai-image-generator) includes three reusable briefs and a blank results table for composition, source-image revisions, exports and cost. Its product brief can be edited before continuing to Image Studio. Run the same brief in each tool and record actual results; the guide does not supply an untested winner or benchmark score.
+
 ## Presentation outlines
 
 | Topic | Slides | English | Türkçe |
