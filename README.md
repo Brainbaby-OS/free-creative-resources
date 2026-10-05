@@ -4,6 +4,8 @@ English · [Türkçe](README.tr.md)
 
 Plan an image edit or a presentation before opening an AI tool. This library contains **two fillable image-editing worksheets and 16 editable presentation outlines** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
 
+[**Download the complete library (ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.05/brainbaby-free-creative-resources-2026-10-05.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.05)
+
 ## Start with one resource
 
 - **Editing a product photo?** Use the [English fillable PDF](resources/en/image-editing-checklist.pdf) or [editable Markdown worksheet](resources/en/image-editing-checklist.md). Record the change, the details to preserve and your review checks.

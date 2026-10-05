@@ -4,6 +4,8 @@ Türkçe · [English](README.md)
 
 Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sunum içeriğinizi hazırlayın. Bu kitaplıkta **iki doldurulabilir görsel düzenleme çalışma belgesi ve 16 düzenlenebilir sunum taslağı** bulunur. Dosyaları indirmek için Brainbaby hesabı gerekmez.
 
+[**Tüm dosyaları ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.05/brainbaby-free-creative-resources-2026-10-05.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.05)
+
 ## Görsel düzenleme
 
 - [Türkçe doldurulabilir PDF](resources/tr/gorsel-duzenleme-kontrol-listesi.pdf)
