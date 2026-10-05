@@ -30,6 +30,8 @@ After the edit, compare the full-size result with the original. Check the handle
 
 New to photo editing? Follow the [first AI photo-edit walkthrough](https://brainbaby.ai/blog/edit-photos-with-ai-for-free-step-by-step-guide): choose a source photo, write one change and preservation requirements, check the allowance, then compare the result. Its editable background example can be carried into Brainbaby's Image Studio. Preparing the brief and downloading these worksheets are free; image jobs have separate account and credit limits.
 
+Choosing an editing workflow? The [AI image-editor selection and review guide](https://brainbaby.ai/blog/uncensored-ai-image-editor) explains when to edit a source photo, generate a new concept or make a precise manual correction. Use this worksheet to compare preserved details and record the displayed cost for each attempt. The guide explains creative-control labels and practical limits; it does not rank tools using invented benchmark results.
+
 ## Presentation outlines
 
 | Topic | Slides | English | Türkçe |
