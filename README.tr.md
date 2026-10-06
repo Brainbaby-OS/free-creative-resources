@@ -1,10 +1,17 @@
 # Brainbaby ücretsiz yaratıcı çalışma belgeleri
 
-Türkçe · [English](README.md)
+Türkçe · [English](README.md) · [Português (Brasil)](README.pt-BR.md) · [Bahasa Indonesia](README.id.md)
 
-Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sunum içeriğinizi hazırlayın. Bu kitaplıkta **iki doldurulabilir görsel düzenleme çalışma belgesi, 16 düzenlenebilir sunum taslağı ve Türkçe/İngilizce görsel aracı karşılaştırma belgesi** bulunur. Dosyaları indirmek için Brainbaby hesabı gerekmez.
+Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sunum içeriğinizi hazırlayın. Bu kitaplıkta **üç doldurulabilir görsel düzenleme çalışma belgesi, 16 sunum taslağı, Endonezce düzenlenebilir tez sunumu ve Türkçe/İngilizce görsel aracı karşılaştırma belgesi** bulunur. Dosyaları indirmek için Brainbaby hesabı gerekmez.
 
-[**Tüm dosyaları ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
+[**22 dosyalık Türkçe/İngilizce sürümü ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
+
+## Yeni bölgesel kaynaklar
+
+- **Brezilya Portekizcesi:** [İki sayfalık doldurulabilir görsel düzenleme PDF belgesi](resources/pt/checklist-edicao-de-imagens.pdf) · [Düzenlenebilir metin](resources/pt/checklist-edicao-de-imagens.md) · [Portekizce düzenleme rehberi](https://brainbaby.ai/pt/editor-de-imagens-ia).
+- **Endonezce:** [Sekiz slaytlık düzenlenebilir tez sunumu (.pptx)](resources/id/template-sidang-skripsi.pptx) · [Doldurma rehberi](resources/id/template-sidang-skripsi.md) · [Endonezce sunum rehberi](https://brainbaby.ai/id/blog/cara-membuat-presentasi-dengan-ai).
+
+Yeni dört dosya kitaplıktan ayrı ayrı indirilebilir; mevcut 22 dosyalık ZIP değişmedi. Tez şablonundaki köşeli parantezleri kendi bilgilerinizle değiştirin. Örnek araştırma sonucu veya uydurma kaynak içermez. Kurumunuzun kurallarını izleyin; farklı uygulamalara aktarırken düzeni kontrol edin. İndirmek ve elle düzenlemek için hesap gerekmez. Yapay zekâ ile üretim, ürünün hesap sınırlarına tabidir.
 
 ## Görsel araçlarını karşılaştırın
 

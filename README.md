@@ -1,10 +1,10 @@
 # Brainbaby free creative resources
 
-English · [Türkçe](README.tr.md)
+English · [Türkçe](README.tr.md) · [Português (Brasil)](README.pt-BR.md) · [Bahasa Indonesia](README.id.md)
 
-Plan an image edit or a presentation before opening an AI tool. This library contains **two fillable image-editing worksheets, 16 editable presentation outlines and an image-tool comparison kit in English and Turkish** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
+Plan an image edit or a presentation before opening an AI tool. This library contains **three fillable image-editing worksheets, 16 editable presentation outlines, an editable Indonesian thesis-deck starter and an image-tool comparison kit in English and Turkish** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
 
-[**Download the complete library (ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
+[**Download the English/Turkish edition (22-file ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
 ## Start with one resource
 
@@ -12,7 +12,14 @@ Plan an image edit or a presentation before opening an AI tool. This library con
 - **Preparing a presentation?** Choose an outline below. Replace its placeholders with your facts, then use the included AI brief in your preferred presentation workflow.
 - **Comparing image tools before paying?** Copy the [English comparison kit](resources/en/image-tool-comparison-kit.md) or [Türkçe karşılaştırma belgesi](resources/tr/gorsel-araci-karsilastirma-belgesi.md). Use matching tasks, record observed outputs and costs, and keep unverified results marked unknown.
 
-These are blank planning resources. The outlines are Markdown, not finished PowerPoint decks. The worksheets are not generated image samples or model-quality reports.
+These are blank planning resources. The 16 outlines are Markdown; the Indonesian starter is an eight-slide PowerPoint file with editable text and speaker notes. The worksheets are not generated image samples or model-quality reports.
+
+## Portuguese and Indonesian resources
+
+- **Português (Brasil):** [Fillable image-editing checklist](resources/pt/checklist-edicao-de-imagens.pdf) · [Editable text](resources/pt/checklist-edicao-de-imagens.md) · [Portuguese editor and free-checklist guide](https://brainbaby.ai/pt/editor-de-imagens-ia). Two pages with 24 fillable fields and checkboxes; fill and review locally before using an image tool.
+- **Bahasa Indonesia:** [Free thesis-deck starter (.pptx)](resources/id/template-sidang-skripsi.pptx) · [Filling guide](resources/id/template-sidang-skripsi.md) · [Indonesian presentation guide](https://brainbaby.ai/id/blog/cara-membuat-presentasi-dengan-ai). Eight slides with editable text and notes, without sample research results, invented citations or animation. Replace every bracketed placeholder and follow your institution's requirements.
+
+These four files are available individually in this repository; the existing 22-file release ZIP remains the English/Turkish edition. Downloads and manual editing do not require a Brainbaby account. AI generation and editing use the product's separate account limits. Importing a deck into another application may change its layout; check the actual file before presenting.
 
 ## Image-tool comparison kit
 
@@ -74,4 +81,4 @@ The files in `resources/` are available under [CC BY 4.0](https://creativecommon
 
 ## Versions and corrections
 
-The first release mirrors the published Brainbaby resource files on **2026-10-05**. The **2026-10-06** release adds the English and Turkish comparison kits and retains those original 20 files unchanged. [resource-manifest.json](resource-manifest.json) records each current source URL, size and SHA-256 checksum; [the original manifest](resource-manifest-2026-10-05.json) retains the first edition. Suggestions can be submitted as an issue or pull request; please use fictional examples when demonstrating an improvement.
+The first release mirrors the published Brainbaby resource files on **2026-10-05**. The **2026-10-06** release adds the English and Turkish comparison kits and retains those original 20 files unchanged. The **2026-10-06 regional update** adds two Portuguese worksheet files and an Indonesian PPTX with its filling guide; the original 22 resources remain unchanged. [resource-manifest.json](resource-manifest.json) records each current source URL, size and SHA-256 checksum; [the original manifest](resource-manifest-2026-10-05.json) retains the first edition. Suggestions can be submitted as an issue or pull request; please use fictional examples when demonstrating an improvement.

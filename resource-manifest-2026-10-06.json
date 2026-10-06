@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-06-regional",
+  "edition": "2026-10-06",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -133,31 +133,6 @@
       "bytes": 6377,
       "sha256": "e7d712e22bfd50fa0d8abb369ab07f00945fda1d21357a53278ad4bf4e6947d7",
       "source_url": "https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/tr/gorsel-araci-karsilastirma-belgesi.md"
-    },
-    {
-      "path": "resources/pt/checklist-edicao-de-imagens.pdf",
-      "bytes": 102376,
-      "sha256": "d2d5b47d3d1ad3824d4387a05c8bc16bffa95367ae66f3f9d453dbeb2cc292d2",
-      "source_url": "https://brainbaby.ai/templates/pt/checklist-edicao-de-imagens.pdf"
-    },
-    {
-      "path": "resources/pt/checklist-edicao-de-imagens.md",
-      "bytes": 2592,
-      "sha256": "67bf29cdc0fe69ac3368b37be2352cf1ff476fd876113be61f967bf065e7a373",
-      "source_url": "https://brainbaby.ai/templates/pt/checklist-edicao-de-imagens.md"
-    },
-    {
-      "path": "resources/id/template-sidang-skripsi.pptx",
-      "bytes": 39825,
-      "sha256": "3c7e58285e28d267c430282abbb4ba3ade046055746af3bd0af465c924750c02",
-      "source_url": "https://brainbaby.ai/templates/id/template-sidang-skripsi.pptx"
-    },
-    {
-      "path": "resources/id/template-sidang-skripsi.md",
-      "bytes": 720,
-      "sha256": "9776e2f3220a40ceb6eb499c67e199f2be0d2ef41fbbaa48f3856815cd12858c",
-      "source_url": "https://brainbaby.ai/templates/id/template-sidang-skripsi.md"
     }
-  ],
-  "previous_edition": "2026-10-06"
+  ]
 }
