@@ -2,9 +2,19 @@
 
 Türkçe · [English](README.md)
 
-Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sunum içeriğinizi hazırlayın. Bu kitaplıkta **iki doldurulabilir görsel düzenleme çalışma belgesi ve 16 düzenlenebilir sunum taslağı** bulunur. Dosyaları indirmek için Brainbaby hesabı gerekmez.
+Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sunum içeriğinizi hazırlayın. Bu kitaplıkta **iki doldurulabilir görsel düzenleme çalışma belgesi, 16 düzenlenebilir sunum taslağı ve Türkçe/İngilizce görsel aracı karşılaştırma belgesi** bulunur. Dosyaları indirmek için Brainbaby hesabı gerekmez.
 
-[**Tüm dosyaları ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.05/brainbaby-free-creative-resources-2026-10-05.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.05)
+[**Tüm dosyaları ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
+
+## Görsel araçlarını karşılaştırın
+
+[Türkçe karşılaştırma belgesi](resources/tr/gorsel-araci-karsilastirma-belgesi.md) · [English comparison kit](resources/en/image-tool-comparison-kit.md)
+
+Yeni belge üç önerilen alıştırma içerir: ürün kompozisyonu, birden fazla koşullu sahne ve kaynak fotoğraf düzenlemesi. Her deneme için boş kayıt, karşılaştırma tablosu, bütçe/durdurma koşulu ve korunacak ayrıntıların kontrolü vardır. Maliyetleri yalnızca aynı para biriminde karşılaştırın; kullanılabilir çıktı yoksa sıfıra bölmeyin. Gözlemleri siz doldurursunuz; belgede denenmiş bir kazanan veya performans puanı bulunmaz.
+
+[Türkçe Markdown indir](https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/tr/gorsel-araci-karsilastirma-belgesi.md) · [Download English Markdown](https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/en/image-tool-comparison-kit.md)
+
+Boş belgeyi veya özel bilgileri çıkarılmış kopyayı bir değerlendirenle paylaşabilirsiniz. Fotoğrafları, hesap bilgilerini ve ödeme makbuzlarını herkese açık karşılaştırmaya eklemeyin. Belgedeki üretim ve fotoğraf yükleme bağlantılarını açmak işlem başlatmaz.
 
 ## Görsel düzenleme
 
@@ -42,4 +52,4 @@ Bu dosyalar boş planlama belgeleridir; üretilmiş görseller veya model perfor
 
 `resources/` dosyaları [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) kapsamındadır. Kaynak göstererek ve değişiklikleri belirterek uyarlayabilir veya yeniden paylaşabilirsiniz. Ayrıntılar: [LICENSE.md](LICENSE.md).
 
-İlk sürüm, 2026-10-05 tarihinde sitede yayımlanan dosyalarla aynıdır. [resource-manifest.json](resource-manifest.json) kaynak adreslerini, boyutları ve SHA-256 özetlerini içerir. Öneriler için issue veya pull request açabilirsiniz; örneklerde kurgusal bilgiler kullanın.
+İlk sürüm, 2026-10-05 tarihinde sitede yayımlanan dosyalarla aynıdır. 2026-10-06 sürümü Türkçe ve İngilizce karşılaştırma belgelerini ekler; önceki 20 dosyayı değiştirmez. [resource-manifest.json](resource-manifest.json) güncel kaynak adreslerini, boyutları ve SHA-256 özetlerini; [ilk sürümün manifesti](resource-manifest-2026-10-05.json) özgün dosyaları içerir. Öneriler için issue veya pull request açabilirsiniz; örneklerde kurgusal bilgiler kullanın.

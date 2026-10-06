@@ -2,7 +2,7 @@
 
 Copyright 2026 Brainbaby.
 
-The worksheet and presentation-outline files in `resources/` are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+The worksheet, image-tool comparison kit and presentation-outline files in `resources/` are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
 
 https://creativecommons.org/licenses/by/4.0/legalcode.en
 

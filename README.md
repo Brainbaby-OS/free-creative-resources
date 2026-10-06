@@ -2,16 +2,25 @@
 
 English · [Türkçe](README.tr.md)
 
-Plan an image edit or a presentation before opening an AI tool. This library contains **two fillable image-editing worksheets and 16 editable presentation outlines** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
+Plan an image edit or a presentation before opening an AI tool. This library contains **two fillable image-editing worksheets, 16 editable presentation outlines and an image-tool comparison kit in English and Turkish** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
 
-[**Download the complete library (ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.05/brainbaby-free-creative-resources-2026-10-05.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.05)
+[**Download the complete library (ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
 ## Start with one resource
 
 - **Editing a product photo?** Use the [English fillable PDF](resources/en/image-editing-checklist.pdf) or [editable Markdown worksheet](resources/en/image-editing-checklist.md). Record the change, the details to preserve and your review checks.
 - **Preparing a presentation?** Choose an outline below. Replace its placeholders with your facts, then use the included AI brief in your preferred presentation workflow.
+- **Comparing image tools before paying?** Copy the [English comparison kit](resources/en/image-tool-comparison-kit.md) or [Türkçe karşılaştırma belgesi](resources/tr/gorsel-araci-karsilastirma-belgesi.md). Use matching tasks, record observed outputs and costs, and keep unverified results marked unknown.
 
 These are blank planning resources. The outlines are Markdown, not finished PowerPoint decks. The worksheets are not generated image samples or model-quality reports.
+
+## Image-tool comparison kit
+
+The new kit contains three proposed exercises (product composition, a scene with several constraints, and a source-photo edit), a repeatable attempt record and a blank comparison table. It includes a budget/stop condition, preservation checks, download verification and guidance for comparing cost per usable output without combining currencies or dividing by zero. You supply the observations; the kit contains no tested winner, performance score or promised result.
+
+[Download English Markdown](https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/en/image-tool-comparison-kit.md) · [Türkçe Markdown indir](https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/tr/gorsel-araci-karsilastirma-belgesi.md)
+
+Share the blank kit or a redacted copy with a reviewer. Keep private photos, account details and payment receipts out of public comparisons. After planning, the kit links to the generation and photo-upload workflows; entering a workflow does not start a job.
 
 ## Image-editing worksheet
 
@@ -63,4 +72,4 @@ The files in `resources/` are available under [CC BY 4.0](https://creativecommon
 
 ## Versions and corrections
 
-The first release mirrors the published Brainbaby resource files on **2026-10-05**. [resource-manifest.json](resource-manifest.json) records each source URL, size and SHA-256 checksum. Suggestions can be submitted as an issue or pull request; please use fictional examples when demonstrating an improvement.
+The first release mirrors the published Brainbaby resource files on **2026-10-05**. The **2026-10-06** release adds the English and Turkish comparison kits and retains those original 20 files unchanged. [resource-manifest.json](resource-manifest.json) records each current source URL, size and SHA-256 checksum; [the original manifest](resource-manifest-2026-10-05.json) retains the first edition. Suggestions can be submitted as an issue or pull request; please use fictional examples when demonstrating an improvement.

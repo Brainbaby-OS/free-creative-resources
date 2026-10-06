@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-06",
+  "edition": "2026-10-05",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -121,18 +121,6 @@
       "bytes": 105421,
       "sha256": "a7a084660fc967d1c14b4eac0668b3750e225890162c1e353e4bae77094ea9e7",
       "source_url": "https://brainbaby.ai/templates/tr/gorsel-duzenleme-kontrol-listesi.pdf"
-    },
-    {
-      "path": "resources/en/image-tool-comparison-kit.md",
-      "bytes": 5611,
-      "sha256": "78a79962efe75fe5fba14a4e879764a9b708c3d150b564b3ac88db4d84c1e06f",
-      "source_url": "https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/en/image-tool-comparison-kit.md"
-    },
-    {
-      "path": "resources/tr/gorsel-araci-karsilastirma-belgesi.md",
-      "bytes": 6377,
-      "sha256": "e7d712e22bfd50fa0d8abb369ab07f00945fda1d21357a53278ad4bf4e6947d7",
-      "source_url": "https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/tr/gorsel-araci-karsilastirma-belgesi.md"
     }
   ]
 }
