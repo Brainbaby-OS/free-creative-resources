@@ -29,6 +29,8 @@ The new kit contains three proposed exercises (product composition, a scene with
 
 For an observed test, use the [cost-per-usable-image calculator](https://brainbaby.ai/uncensored-ai?utm_source=github&utm_medium=referral&utm_campaign=image-cost-calculator#image-comparison): open “Calculate the cost of a usable image”, enter total spend including failed attempts and count only outputs that meet your brief. It runs in the page without an account; figures are not saved or sent to analytics. Compare costs in one currency. This is your own calculation, not a model ranking, credit estimate or checkout quote.
 
+Before testing, inspect [one actual internal Image Studio result and its exact English prompt](https://brainbaby.ai/uncensored-ai?utm_source=github&utm_medium=referral&utm_campaign=studio-example#studio-example). It is one original blue-cup output, not a benchmark or a promised result. You can prepare the same prompt in Image Studio; generation requires the separate account allowance. The product image is not part of this resource pack's CC BY license.
+
 Share the blank kit or a redacted copy with a reviewer. Keep private photos, account details and payment receipts out of public comparisons. After planning, the kit links to the generation and photo-upload workflows; entering a workflow does not start a job.
 
 ## Image-editing worksheet

@@ -23,6 +23,8 @@ Yeni belge üç önerilen alıştırma içerir: ürün kompozisyonu, birden fazl
 
 Gözlemlediğiniz bir test için [kullanılabilir görsel başına maliyet hesaplayıcısını](https://brainbaby.ai/tr/sansursuz-yapay-zeka?utm_source=github&utm_medium=referral&utm_campaign=image-cost-calculator#image-comparison) açın. “Kullanılabilir görsel başına maliyeti hesapla” bölümünde, başarısız denemeler dahil toplam harcamayı ve isteğinize uyan çıktı sayısını girin. Hesap gerekmez; rakamlar kaydedilmez veya analitik sistemine gönderilmez. Maliyetleri tek para biriminde karşılaştırın. Bu sizin hesaplamanızdır; model sıralaması, kredi tahmini veya ödeme fiyatı değildir.
 
+Denemeden önce [Image Studio'nun tek bir gerçek dahili çıktısını ve tam İngilizce istemini](https://brainbaby.ai/tr/sansursuz-yapay-zeka?utm_source=github&utm_medium=referral&utm_campaign=studio-example#studio-example) inceleyebilirsiniz. Bu özgün mavi fincan görseli bir kıyaslama testi veya sonuç garantisi değildir. Aynı istemi Image Studio'da hazırlayabilirsiniz; üretim için ayrı hesap kullanım hakkı gerekir. Ürün görseli bu kaynak paketinin CC BY lisansına dahil değildir.
+
 Boş belgeyi veya özel bilgileri çıkarılmış kopyayı bir değerlendirenle paylaşabilirsiniz. Fotoğrafları, hesap bilgilerini ve ödeme makbuzlarını herkese açık karşılaştırmaya eklemeyin. Belgedeki üretim ve fotoğraf yükleme bağlantılarını açmak işlem başlatmaz.
 
 ## Görsel düzenleme
