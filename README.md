@@ -20,6 +20,8 @@ The new kit contains three proposed exercises (product composition, a scene with
 
 [Download English Markdown](https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/en/image-tool-comparison-kit.md) · [Türkçe Markdown indir](https://raw.githubusercontent.com/Brainbaby-OS/free-creative-resources/main/resources/tr/gorsel-araci-karsilastirma-belgesi.md)
 
+For an observed test, use the [cost-per-usable-image calculator](https://brainbaby.ai/uncensored-ai?utm_source=github&utm_medium=referral&utm_campaign=image-cost-calculator#image-comparison): open “Calculate the cost of a usable image”, enter total spend including failed attempts and count only outputs that meet your brief. It runs in the page without an account; figures are not saved or sent to analytics. Compare costs in one currency. This is your own calculation, not a model ranking, credit estimate or checkout quote.
+
 Share the blank kit or a redacted copy with a reviewer. Keep private photos, account details and payment receipts out of public comparisons. After planning, the kit links to the generation and photo-upload workflows; entering a workflow does not start a job.
 
 ## Image-editing worksheet
