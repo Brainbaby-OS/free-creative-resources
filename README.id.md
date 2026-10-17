@@ -2,6 +2,13 @@
 
 [English](README.md) · [Türkçe](README.tr.md) · [Português (Brasil)](README.pt-BR.md) · Bahasa Indonesia
 
+## Periksa hasil ekspor presentasi Brainbaby
+
+[Contoh empat slide berbahasa Inggris](examples/presentations/community-garden/README.md) mencakup PDF, PowerPoint yang dapat diedit, dan empat pratinjau PDF. Contoh dibuat pada 2 Oktober 2026, dengan satu perubahan teks yang disimpan pada hari itu, lalu diekspor pada 17 Oktober. Kebun dan jadwalnya fiktif; ini bukan hasil pelanggan atau uji perbandingan kinerja.
+
+[Unduh kit evaluasi berisi 13 file](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.17-presentations/brainbaby-presentation-evaluation-kit-2026-10-17.zip). Worksheet dan lembar penilaian CSV berbahasa Inggris masih kosong untuk mencatat pengujian Anda sendiri. Lisensi CC BY untuk bahan perencanaan tidak mencakup presentasi contoh dan pratinjaunya. Unduhan tidak memerlukan akun; membuat presentasi sendiri memakai kuota akun Anda.
+
+
 ## PPT sidang skripsi untuk diisi sendiri
 
 [Unduh template .pptx](resources/id/template-sidang-skripsi.pptx) · [Petunjuk pengisian](resources/id/template-sidang-skripsi.md) · [Panduan presentasi AI Bahasa Indonesia](https://brainbaby.ai/id/blog/cara-membuat-presentasi-dengan-ai)

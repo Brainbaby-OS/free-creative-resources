@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-06-regional",
+  "edition": "2026-10-17-presentations",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -157,6 +157,18 @@
       "bytes": 720,
       "sha256": "9776e2f3220a40ceb6eb499c67e199f2be0d2ef41fbbaa48f3856815cd12858c",
       "source_url": "https://brainbaby.ai/templates/id/template-sidang-skripsi.md"
+    },
+    {
+      "path": "resources/en/presentation-tool-comparison-worksheet.md",
+      "bytes": 5928,
+      "sha256": "d077ff0c4414d4dcc32086379a7f57d5884451fd2a10cb575411bac1ef30fc4b",
+      "source_url": "https://brainbaby.ai/templates/en/presentation-tool-comparison-worksheet.md"
+    },
+    {
+      "path": "resources/en/presentation-tool-scorecard.csv",
+      "bytes": 487,
+      "sha256": "458573f22ca4f6a7f29aa3de4f543e7d6795794c21b86c0818b2e1e6700ac6d5",
+      "source_url": "https://brainbaby.ai/templates/en/presentation-tool-scorecard.csv"
     }
   ],
   "previous_edition": "2026-10-06"

@@ -6,13 +6,25 @@ Plan an image edit or a presentation before opening an AI tool. This library con
 
 [**Download the English/Turkish edition (22-file ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
+## Compare presentation tools with a real exported deck
+
+[**Download the presentation evaluation kit (13-file ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.17-presentations/brainbaby-presentation-evaluation-kit-2026-10-17.zip) · [Read the original request and review notes](examples/presentations/community-garden/README.md)
+
+Inspect an actual four-slide English Brainbaby presentation as a PDF or editable PowerPoint, with all four PDF previews and checksums. It was generated on October 2, with one body-text edit saved that day, and exported on October 17, 2026. The fictional garden schedule is proposed, not a confirmed event. This is one product example, not a comparative quality or speed benchmark.
+
+The kit also includes the original [presentation-tool worksheet](resources/en/presentation-tool-comparison-worksheet.md) and [blank CSV scorecard](resources/en/presentation-tool-scorecard.csv). Their separate six-slide retail exercise lets you compare the same facts, revision and export in tools you actually test. There are no prefilled scores or a preselected winner.
+
+Use the [free presentation planner](https://brainbaby.ai/presentation-maker?utm_source=github&utm_medium=referral&utm_campaign=presentation-evaluation-kit#presentation-planner) for your own brief, or review the [seven-tool comparison](https://brainbaby.ai/blog/7-best-ai-presentation-makers-to-create-slides-in-minutes-5io6?utm_source=github&utm_medium=referral&utm_campaign=presentation-evaluation-kit). Preparing a brief and inspecting these files do not generate slides or spend credits. Your own AI work uses the allowance shown in your account.
+
+The worksheet and scorecard are CC BY 4.0 planning resources. The generated example and previews are separately labeled and are not covered by that license.
+
 ## Start with one resource
 
 - **Editing a product photo?** Use the [English fillable PDF](resources/en/image-editing-checklist.pdf) or [editable Markdown worksheet](resources/en/image-editing-checklist.md). Record the change, the details to preserve and your review checks.
 - **Preparing a presentation?** Choose an outline below. Replace its placeholders with your facts, then use the included AI brief in your preferred presentation workflow.
 - **Comparing image tools before paying?** Copy the [English comparison kit](resources/en/image-tool-comparison-kit.md) or [Türkçe karşılaştırma belgesi](resources/tr/gorsel-araci-karsilastirma-belgesi.md). Use matching tasks, record observed outputs and costs, and keep unverified results marked unknown.
 
-These are blank planning resources. The 16 outlines are Markdown; the Indonesian starter is an eight-slide PowerPoint file with editable text and speaker notes. The worksheets are not generated image samples or model-quality reports.
+The worksheets and outlines are planning resources; the garden deck above is a separately labeled generated example. The 16 outlines are Markdown; the Indonesian starter is an eight-slide PowerPoint file with editable text and speaker notes. The worksheets are not generated image samples or model-quality reports.
 
 ## Portuguese and Indonesian resources
 
@@ -81,6 +93,13 @@ Brainbaby's online guides provide the matching workspace entry. Product accounts
 
 The files in `resources/` are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can adapt and redistribute them with attribution and an indication of changes. Example: “Adapted from Brainbaby's image-editing brief and review checklist, CC BY 4.0.” See [LICENSE.md](LICENSE.md).
 
+## Check file integrity
+
+Run `python3 scripts/check-resources.py` from the repository root. The check uses only the Python standard library and verifies resource hashes, local links, the empty scorecard and the sample file structure. It does not generate slides, call an AI provider or assign tool scores.
+
 ## Versions and corrections
 
 The first release mirrors the published Brainbaby resource files on **2026-10-05**. The **2026-10-06** release adds the English and Turkish comparison kits and retains those original 20 files unchanged. The **2026-10-06 regional update** adds two Portuguese worksheet files and an Indonesian PPTX with its filling guide; the original 22 resources remain unchanged. [resource-manifest.json](resource-manifest.json) records each current source URL, size and SHA-256 checksum; [the original manifest](resource-manifest-2026-10-05.json) retains the first edition. Suggestions can be submitted as an issue or pull request; please use fictional examples when demonstrating an improvement.
+
+
+The **2026-10-17 presentation edition** adds the presentation comparison worksheet and blank scorecard, plus the separately labeled example folder. All 26 prior resource files and older release assets are preserved. [presentation-example-manifest.json](presentation-example-manifest.json) records the six unchanged public sample artifacts. The new presentation ZIP is separate from the older 22-file English/Turkish archive.

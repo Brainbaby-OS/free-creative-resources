@@ -6,6 +6,13 @@ Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sun
 
 [**22 dosyalık Türkçe/İngilizce sürümü ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
+## Gerçek bir sunum çıktısını inceleyin
+
+[İngilizce dört slaytlık Brainbaby örneği](examples/presentations/community-garden/README.md) PDF, düzenlenebilir PowerPoint ve dört PDF önizlemesi içerir. Örnek 2 Ekim 2026 tarihinde üretildi; aynı gün bir gövde metni değişikliği kaydedildi ve 17 Ekim tarihinde dışa aktarıldı. Bahçe ve program hayalîdir; bu bir müşteri sonucu veya karşılaştırmalı performans testi değildir.
+
+[13 dosyalık sunum değerlendirme paketini indir](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.17-presentations/brainbaby-presentation-evaluation-kit-2026-10-17.zip). İngilizce çalışma belgesi ve boş puan tablosu, kendi denemelerinizi kaydetmeniz içindir. Örnek sunum ve önizlemeler, planlama belgelerinin CC BY lisansına dahil değildir. İndirmek hesap gerektirmez; kendi sunumunuzu üretmek ayrı hesap kullanım hakkına tabidir.
+
+
 ## Yeni bölgesel kaynaklar
 
 - **Brezilya Portekizcesi:** [İki sayfalık doldurulabilir görsel düzenleme PDF belgesi](resources/pt/checklist-edicao-de-imagens.pdf) · [Düzenlenebilir metin](resources/pt/checklist-edicao-de-imagens.md) · [Portekizce düzenleme rehberi](https://brainbaby.ai/pt/editor-de-imagens-ia).

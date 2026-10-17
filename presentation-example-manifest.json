@@ -1,0 +1,44 @@
+{
+  "edition": "2026-10-17",
+  "publisher": "Brainbaby",
+  "generatedOn": "2026-10-02",
+  "exportedOn": "2026-10-17",
+  "files": [
+    {
+      "path": "examples/presentations/community-garden/community-garden.pdf",
+      "bytes": 189848,
+      "sha256": "98c0a7a57b3039f7692662042c4a9f30b1afd8f89dc7d6bb57cb060cb0338b01",
+      "source_url": "https://brainbaby.ai/examples/presentations/community-garden.pdf"
+    },
+    {
+      "path": "examples/presentations/community-garden/community-garden.pptx",
+      "bytes": 93538,
+      "sha256": "89cee7acd65d15f7cb0645edfc7663903f4b8250e009f1ae4393899295370b55",
+      "source_url": "https://brainbaby.ai/examples/presentations/community-garden.pptx"
+    },
+    {
+      "path": "examples/presentations/community-garden/community-garden-1.webp",
+      "bytes": 9640,
+      "sha256": "4ee79e431d89aff8996951744a6967a272aa6fdfda14dc51dea014a7d3d46ecb",
+      "source_url": "https://brainbaby.ai/images/presentation-examples/community-garden-1.webp"
+    },
+    {
+      "path": "examples/presentations/community-garden/community-garden-2.webp",
+      "bytes": 17446,
+      "sha256": "b0d6b6864234af49d7d7a54e0b57bd63e18d965e8a082a3f85c579a3aaa68a25",
+      "source_url": "https://brainbaby.ai/images/presentation-examples/community-garden-2.webp"
+    },
+    {
+      "path": "examples/presentations/community-garden/community-garden-3.webp",
+      "bytes": 15782,
+      "sha256": "3a8f1612109fc11936bc43f5b0f2fb61eab1640866b82a4fd722da6d5945d285",
+      "source_url": "https://brainbaby.ai/images/presentation-examples/community-garden-3.webp"
+    },
+    {
+      "path": "examples/presentations/community-garden/community-garden-4.webp",
+      "bytes": 14386,
+      "sha256": "913f37ecddcd6ada172182fc45cf04a08918282fc74caf33ba1eb44741f9cbeb",
+      "source_url": "https://brainbaby.ai/images/presentation-examples/community-garden-4.webp"
+    }
+  ]
+}

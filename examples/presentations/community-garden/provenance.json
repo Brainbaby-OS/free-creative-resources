@@ -1,0 +1,54 @@
+{
+  "id": "community-garden-generated-deck",
+  "generatedOn": "2026-10-02",
+  "exportedOn": "2026-10-17",
+  "brief": "Create a four-slide presentation about organizing a small community garden. Cover the goal, three volunteer roles, a simple weekly plan, and next steps. Keep the text concise; do not invent statistics or browse connected apps.",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Starting Our Community Garden",
+      "src": "/images/presentation-examples/community-garden-1.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "4ee79e431d89aff8996951744a6967a272aa6fdfda14dc51dea014a7d3d46ecb"
+    },
+    {
+      "number": 2,
+      "title": "Three Essential Volunteer Roles",
+      "src": "/images/presentation-examples/community-garden-2.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "b0d6b6864234af49d7d7a54e0b57bd63e18d965e8a082a3f85c579a3aaa68a25"
+    },
+    {
+      "number": 3,
+      "title": "A Simple Weekly Plan",
+      "src": "/images/presentation-examples/community-garden-3.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "3a8f1612109fc11936bc43f5b0f2fb61eab1640866b82a4fd722da6d5945d285"
+    },
+    {
+      "number": 4,
+      "title": "What Happens Next",
+      "src": "/images/presentation-examples/community-garden-4.webp",
+      "width": 1280,
+      "height": 720,
+      "sha256": "913f37ecddcd6ada172182fc45cf04a08918282fc74caf33ba1eb44741f9cbeb"
+    }
+  ],
+  "downloads": [
+    {
+      "format": "pdf",
+      "path": "/examples/presentations/community-garden.pdf",
+      "bytes": 189848,
+      "sha256": "98c0a7a57b3039f7692662042c4a9f30b1afd8f89dc7d6bb57cb060cb0338b01"
+    },
+    {
+      "format": "pptx",
+      "path": "/examples/presentations/community-garden.pptx",
+      "bytes": 93538,
+      "sha256": "89cee7acd65d15f7cb0645edfc7663903f4b8250e009f1ae4393899295370b55"
+    }
+  ]
+}
