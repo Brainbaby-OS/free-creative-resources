@@ -47,6 +47,11 @@ ios_notes = (root / 'resources/tr/ios-yayin-hazirlik-listesi.md').read_text()
 assert len(re.findall(r'^- \[ \]', ios_notes, re.M)) == 12
 assert not re.search(r'^- \[x\]', ios_notes, re.M), 'Planning marks must start empty'
 
+resume_notes = (root / 'resources/en/resume-summary-worksheet.md').read_text()
+assert len(re.findall(r'^- \[ \]', resume_notes, re.M)) == 8
+assert len(re.findall(r'^\| \[skill or role context\]', resume_notes, re.M)) == 3
+assert not re.search(r'^- \[x\]', resume_notes, re.M), 'Resume review fields must start empty'
+
 folder = root / 'examples/presentations/community-garden'
 pdf = (folder / 'community-garden.pdf').read_bytes()
 assert pdf.startswith(b'%PDF-') and b'%%EOF' in pdf[-1024:]

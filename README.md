@@ -24,6 +24,10 @@ Use the [free presentation compatibility checklist](resources/en/presentation-co
 
 Read the [PowerPoint alternatives guide for Mac and AI drafting](https://brainbaby.ai/blog/powerpoint-alternatives?utm_source=github&utm_medium=referral&utm_campaign=presentation-compatibility-checklist) to match the working environment to the handoff. The checklist is CC BY 4.0 and needs no account. It does not enable macros, generate slides or include product credits. Use a source you have permission to review and keep private client details out of public results.
 
+## Write a resume summary from your own experience
+
+Use the original [resume-summary worksheet](resources/en/resume-summary-worksheet.md) to separate a job requirement from a claim your own experience supports. It includes three blank evidence rows, an editable summary structure, eight unmarked review items and an optional AI editing brief. The [six-example guide](https://brainbaby.ai/blog/resume-summary-examples?utm_source=github&utm_medium=referral&utm_campaign=resume-summary-worksheet) uses explicitly fictional profiles to explain the process. The worksheet needs no account, contains no applicant data and carries no hiring or ATS guarantee. It is CC BY 4.0.
+
 ## Prepare an iOS release in Turkish
 
 Download the original [12-item iOS preparation checklist](resources/tr/ios-yayin-hazirlik-listesi.md) or use its [interactive Turkish guide](https://brainbaby.ai/tr/blog/ios-uygulama-gelistirme?utm_source=github&utm_medium=referral&utm_campaign=ios-preparation). The page lets you mark the checks you reviewed and download those marks locally. They are your planning notes, not device-test, account, purchase or App Store approval evidence. The worksheet requires no account and contains no credentials, generated app or signed build. It is CC BY 4.0; Brainbaby app generation and revisions use separate credits.
@@ -125,3 +129,5 @@ The **2026-10-19 compatibility edition** adds one English Markdown handoff works
 The **2026-10-19 mobile-design edition** adds four original Turkish planning assets. All 29 previous resource files and six example artifacts remain unchanged. [The compatibility-edition manifest](resource-manifest-2026-10-19-compatibility.json) preserves their prior checksums. No existing release archive was rebuilt.
 
 The **2026-10-19 iOS-planning edition** adds one original Turkish checklist. All 33 previous resources and six example artifacts remain unchanged. [The mobile-design manifest](resource-manifest-2026-10-19-mobile-design.json) preserves the previous checksums. Existing release ZIPs were not rebuilt.
+
+The **2026-10-19 resume-summary edition** adds one original English writing worksheet. All 34 previous resources and six example artifacts remain unchanged. [The iOS-planning manifest](resource-manifest-2026-10-19-ios-planning.json) preserves their previous checksums. Existing release ZIPs were not rebuilt.

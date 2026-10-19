@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-19-ios-planning",
+  "edition": "2026-10-19-resume-summary",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -205,7 +205,13 @@
       "bytes": 2322,
       "sha256": "70ade0d1148517928d52e71940e63967e899725b9216c0291c896ad50cf653aa",
       "source_url": "https://brainbaby.ai/templates/tr/ios-yayin-hazirlik-listesi.md"
+    },
+    {
+      "path": "resources/en/resume-summary-worksheet.md",
+      "bytes": 3031,
+      "sha256": "0e6f98b8ae6d1217fdd749882661b036a02ab015652c3cd88979f966fa68724e",
+      "source_url": "https://brainbaby.ai/templates/en/resume-summary-worksheet.md"
     }
   ],
-  "previous_edition": "2026-10-19-mobile-design"
+  "previous_edition": "2026-10-19-ios-planning"
 }
