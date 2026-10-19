@@ -2,7 +2,7 @@
 
 English · [Türkçe](README.tr.md) · [Português (Brasil)](README.pt-BR.md) · [Bahasa Indonesia](README.id.md)
 
-Plan an image edit or a presentation before opening an AI tool. This library contains **three fillable image-editing worksheets, 16 editable presentation outlines, an editable Indonesian thesis-deck starter and an image-tool comparison kit in English and Turkish** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
+Plan an image edit or a presentation before opening an AI tool. This library contains **three fillable image-editing worksheets, 16 editable presentation outlines, an editable Indonesian thesis-deck starter, an image-tool comparison kit in English and Turkish, and an English presentation compatibility checklist** from [Brainbaby](https://brainbaby.ai/tools#free-resources). Download the files without a Brainbaby account, adapt them to your project, and keep your own copy.
 
 [**Download the English/Turkish edition (22-file ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
@@ -17,6 +17,12 @@ The kit also includes the original [presentation-tool worksheet](resources/en/pr
 Use the [free presentation planner](https://brainbaby.ai/presentation-maker?utm_source=github&utm_medium=referral&utm_campaign=presentation-evaluation-kit#presentation-planner) for your own brief, or review the [seven-tool comparison](https://brainbaby.ai/blog/7-best-ai-presentation-makers-to-create-slides-in-minutes-5io6?utm_source=github&utm_medium=referral&utm_campaign=presentation-evaluation-kit). Preparing a brief and inspecting these files do not generate slides or spend credits. Your own AI work uses the allowance shown in your account.
 
 The worksheet and scorecard are CC BY 4.0 planning resources. The generated example and previews are separately labeled and are not covered by that license.
+
+## Check a PowerPoint handoff
+
+Use the [free presentation compatibility checklist](resources/en/presentation-compatibility-checklist.md) before sending an editable deck to a colleague or client. It covers text and fonts, object editability, notes and media, a PDF visual reference, and the final presentation device. Each result field starts blank; the worksheet contains no tool scores or claimed conversion results.
+
+Read the [PowerPoint alternatives guide for Mac and AI drafting](https://brainbaby.ai/blog/powerpoint-alternatives?utm_source=github&utm_medium=referral&utm_campaign=presentation-compatibility-checklist) to match the working environment to the handoff. The checklist is CC BY 4.0 and needs no account. It does not enable macros, generate slides or include product credits. Use a source you have permission to review and keep private client details out of public results.
 
 ## Start with one resource
 
@@ -103,3 +109,5 @@ The first release mirrors the published Brainbaby resource files on **2026-10-05
 
 
 The **2026-10-17 presentation edition** adds the presentation comparison worksheet and blank scorecard, plus the separately labeled example folder. All 26 prior resource files and older release assets are preserved. [presentation-example-manifest.json](presentation-example-manifest.json) records the six unchanged public sample artifacts. The new presentation ZIP is separate from the older 22-file English/Turkish archive.
+
+The **2026-10-19 compatibility edition** adds one English Markdown handoff worksheet. All 28 previous resource files and the six public example artifacts remain unchanged. [The presentation-edition manifest](resource-manifest-2026-10-17-presentations.json) preserves the previous checksums. Existing release ZIPs have not been rebuilt; download the new checklist individually.

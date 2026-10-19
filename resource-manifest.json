@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-17-presentations",
+  "edition": "2026-10-19-compatibility",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -169,7 +169,13 @@
       "bytes": 487,
       "sha256": "458573f22ca4f6a7f29aa3de4f543e7d6795794c21b86c0818b2e1e6700ac6d5",
       "source_url": "https://brainbaby.ai/templates/en/presentation-tool-scorecard.csv"
+    },
+    {
+      "path": "resources/en/presentation-compatibility-checklist.md",
+      "bytes": 5074,
+      "sha256": "797e2c33fbd0fabfeae1ac0c1ad203c7cc52544e59831cd85ff859295e10f930",
+      "source_url": "https://brainbaby.ai/templates/en/presentation-compatibility-checklist.md"
     }
   ],
-  "previous_edition": "2026-10-06"
+  "previous_edition": "2026-10-17-presentations"
 }
