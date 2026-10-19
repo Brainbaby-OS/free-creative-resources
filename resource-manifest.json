@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-19-mobile-design",
+  "edition": "2026-10-19-ios-planning",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -199,7 +199,13 @@
       "bytes": 43100,
       "sha256": "626bca9a44312b8593f47b8334ece6f92558c0d8123eeafddaf4e6d2194fe41b",
       "source_url": "https://brainbaby.ai/images/guides/mobil-uygulama-tasarimi.webp"
+    },
+    {
+      "path": "resources/tr/ios-yayin-hazirlik-listesi.md",
+      "bytes": 2322,
+      "sha256": "70ade0d1148517928d52e71940e63967e899725b9216c0291c896ad50cf653aa",
+      "source_url": "https://brainbaby.ai/templates/tr/ios-yayin-hazirlik-listesi.md"
     }
   ],
-  "previous_edition": "2026-10-19-compatibility"
+  "previous_edition": "2026-10-19-mobile-design"
 }

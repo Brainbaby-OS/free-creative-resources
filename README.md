@@ -24,6 +24,10 @@ Use the [free presentation compatibility checklist](resources/en/presentation-co
 
 Read the [PowerPoint alternatives guide for Mac and AI drafting](https://brainbaby.ai/blog/powerpoint-alternatives?utm_source=github&utm_medium=referral&utm_campaign=presentation-compatibility-checklist) to match the working environment to the handoff. The checklist is CC BY 4.0 and needs no account. It does not enable macros, generate slides or include product credits. Use a source you have permission to review and keep private client details out of public results.
 
+## Prepare an iOS release in Turkish
+
+Download the original [12-item iOS preparation checklist](resources/tr/ios-yayin-hazirlik-listesi.md) or use its [interactive Turkish guide](https://brainbaby.ai/tr/blog/ios-uygulama-gelistirme?utm_source=github&utm_medium=referral&utm_campaign=ios-preparation). The page lets you mark the checks you reviewed and download those marks locally. They are your planning notes, not device-test, account, purchase or App Store approval evidence. The worksheet requires no account and contains no credentials, generated app or signed build. It is CC BY 4.0; Brainbaby app generation and revisions use separate credits.
+
 ## Plan a mobile interface in Turkish
 
 Use the original [editable screen plan](resources/tr/mobil-uygulama-ekran-plani.md), [12-item CSV review record](resources/tr/mobil-uygulama-ekran-plani.csv), and [three-screen drawing](resources/tr/mobil-uygulama-tasarimi.svg) ([WebP preview](resources/tr/mobil-uygulama-tasarimi.webp)) for a fictional shopping-list app. The drawing is a proposed layout, not a working app screenshot or a device-test result. Every CSV result field is blank.
@@ -119,3 +123,5 @@ The **2026-10-17 presentation edition** adds the presentation comparison workshe
 The **2026-10-19 compatibility edition** adds one English Markdown handoff worksheet. All 28 previous resource files and the six public example artifacts remain unchanged. [The presentation-edition manifest](resource-manifest-2026-10-17-presentations.json) preserves the previous checksums. Existing release ZIPs have not been rebuilt; download the new checklist individually.
 
 The **2026-10-19 mobile-design edition** adds four original Turkish planning assets. All 29 previous resource files and six example artifacts remain unchanged. [The compatibility-edition manifest](resource-manifest-2026-10-19-compatibility.json) preserves their prior checksums. No existing release archive was rebuilt.
+
+The **2026-10-19 iOS-planning edition** adds one original Turkish checklist. All 33 previous resources and six example artifacts remain unchanged. [The mobile-design manifest](resource-manifest-2026-10-19-mobile-design.json) preserves the previous checksums. Existing release ZIPs were not rebuilt.

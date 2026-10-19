@@ -82,3 +82,7 @@ Bu dosyalar boş planlama belgeleridir; üretilmiş görseller veya model perfor
 `resources/` dosyaları [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) kapsamındadır. Kaynak göstererek ve değişiklikleri belirterek uyarlayabilir veya yeniden paylaşabilirsiniz. Ayrıntılar: [LICENSE.md](LICENSE.md).
 
 İlk sürüm, 2026-10-05 tarihinde sitede yayımlanan dosyalarla aynıdır. 2026-10-06 sürümü Türkçe ve İngilizce karşılaştırma belgelerini ekler; önceki 20 dosyayı değiştirmez. [resource-manifest.json](resource-manifest.json) güncel kaynak adreslerini, boyutları ve SHA-256 özetlerini; [ilk sürümün manifesti](resource-manifest-2026-10-05.json) özgün dosyaları içerir. Öneriler için issue veya pull request açabilirsiniz; örneklerde kurgusal bilgiler kullanın.
+
+## iOS yayın hazırlık notları
+
+[12 maddelik boş kontrol belgesini indirin](resources/tr/ios-yayin-hazirlik-listesi.md) veya [Türkçe iOS geliştirme rehberindeki aracı açın](https://brainbaby.ai/tr/blog/ios-uygulama-gelistirme?utm_source=github&utm_medium=referral&utm_campaign=ios-preparation). Kendi projenizde incelediğiniz maddeleri işaretleyip notlarınızı indirebilirsiniz. İşaretler hesap onayı, cihaz testi veya mağaza yayını kanıtı değildir. Belge hesap ya da kimlik bilgisi istemez; uygulama veya imzalı derleme içermez. İndirmek ücretsizdir. Uygulama üretimi ve değişiklikleri ayrı oluşturma kredileri kullanır. CC BY 4.0.

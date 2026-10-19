@@ -43,6 +43,10 @@ mobile_svg = ElementTree.fromstring((root / 'resources/tr/mobil-uygulama-tasarim
 assert mobile_svg.attrib.get('viewBox') == '0 0 1200 740'
 assert not any(node.tag.rsplit('}', 1)[-1] in {'script', 'foreignObject'} for node in mobile_svg.iter())
 
+ios_notes = (root / 'resources/tr/ios-yayin-hazirlik-listesi.md').read_text()
+assert len(re.findall(r'^- \[ \]', ios_notes, re.M)) == 12
+assert not re.search(r'^- \[x\]', ios_notes, re.M), 'Planning marks must start empty'
+
 folder = root / 'examples/presentations/community-garden'
 pdf = (folder / 'community-garden.pdf').read_bytes()
 assert pdf.startswith(b'%PDF-') and b'%%EOF' in pdf[-1024:]
