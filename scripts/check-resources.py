@@ -35,6 +35,14 @@ with (root / 'resources/en/presentation-tool-scorecard.csv').open(newline='') as
 assert len(rows) == 4 and len(rows[0]) == 20
 assert all(len(row) == 20 and all(not cell for cell in row) for row in rows[1:])
 
+with (root / 'resources/tr/mobil-uygulama-ekran-plani.csv').open(newline='') as file:
+    mobile_rows = list(csv.reader(file))
+assert len(mobile_rows) == 13 and all(len(row) == 8 for row in mobile_rows)
+assert all(not any(row[4:]) for row in mobile_rows[1:]), 'Mobile result fields must stay blank'
+mobile_svg = ElementTree.fromstring((root / 'resources/tr/mobil-uygulama-tasarimi.svg').read_bytes())
+assert mobile_svg.attrib.get('viewBox') == '0 0 1200 740'
+assert not any(node.tag.rsplit('}', 1)[-1] in {'script', 'foreignObject'} for node in mobile_svg.iter())
+
 folder = root / 'examples/presentations/community-garden'
 pdf = (folder / 'community-garden.pdf').read_bytes()
 assert pdf.startswith(b'%PDF-') and b'%%EOF' in pdf[-1024:]

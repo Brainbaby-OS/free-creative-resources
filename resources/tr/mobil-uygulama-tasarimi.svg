@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" role="img" aria-labelledby="title desc">
+<title id="title">Üç ekranlı mobil uygulama tasarım planı</title>
+<desc id="desc">Hayali alışveriş listesi için Listeler, Liste ayrıntısı ve Ayarlar ekranları. Özgün bir yerleşim taslağıdır; çalışan uygulama ekran görüntüsü veya test sonucu değildir.</desc>
+<rect width="1200" height="740" fill="#f7f7f5"/>
+<g font-family="Arial, sans-serif" fill="#191a1e">
+<text x="52" y="51" font-size="15" font-weight="700" letter-spacing="2">BRAINBABY · TASARIM NOTLARI</text>
+<text x="52" y="101" font-size="36" font-weight="700">Bir temel görev. Üç anlaşılır ekran.</text>
+<text x="52" y="132" font-size="18" fill="#55575e">Hayali alışveriş listesi · Ekran planı; çalışan uygulama değil.</text>
+<!-- Screen one -->
+<rect x="52" y="170" width="330" height="478" rx="27" fill="#fff" stroke="#c8c9cb" stroke-width="2"/>
+<text x="78" y="207" font-size="13" fill="#62646b">01 / BAŞLANGIÇ</text>
+<text x="78" y="246" font-size="27" font-weight="700">Listeler</text>
+<rect x="76" y="274" width="282" height="76" rx="12" fill="#f6f7fa" stroke="#e3e4e7"/>
+<text x="94" y="304" font-size="18" font-weight="700">Haftalık alışveriş</text>
+<text x="94" y="330" font-size="15" fill="#62646b">2 ürün · 1 alındı</text>
+<text x="78" y="392" font-size="16" fill="#62646b">Bir liste seçin veya yenisini açın.</text>
+<rect x="76" y="442" width="282" height="52" rx="12" fill="#202126"/>
+<text x="217" y="474" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">Yeni liste</text>
+<line x1="76" y1="564" x2="358" y2="564" stroke="#e3e4e7"/>
+<text x="116" y="604" font-size="16" font-weight="700" fill="#2547c9">Listeler</text>
+<text x="260" y="604" font-size="16" fill="#62646b">Ayarlar</text>
+<!-- Screen two -->
+<rect x="435" y="170" width="330" height="478" rx="27" fill="#fff" stroke="#c8c9cb" stroke-width="2"/>
+<text x="461" y="207" font-size="13" fill="#62646b">02 / TEMEL GÖREV</text>
+<text x="461" y="246" font-size="27" font-weight="700">Liste ayrıntısı</text>
+<text x="461" y="286" font-size="16" font-weight="700">Ürün adı</text>
+<rect x="459" y="300" width="282" height="46" rx="9" fill="#fff" stroke="#999ca4"/>
+<text x="474" y="329" font-size="17">Süt</text>
+<text x="461" y="374" font-size="14" fill="#62646b">Miktar (isteğe bağlı): 2 adet</text>
+<rect x="459" y="395" width="282" height="48" rx="11" fill="#202126"/>
+<text x="600" y="425" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">Ürün ekle</text>
+<rect x="459" y="464" width="282" height="57" rx="10" fill="#f6f7fa"/>
+<text x="475" y="499" font-size="17">Süt · 2 adet</text>
+<text x="650" y="499" font-size="14" fill="#55575e">Alınmadı</text>
+<rect x="459" y="533" width="282" height="57" rx="10" fill="#f6f7fa"/>
+<text x="475" y="568" font-size="17">Ekmek</text>
+<text x="682" y="568" font-size="14" fill="#2547c9">Alındı</text>
+<text x="461" y="623" font-size="13" fill="#62646b">Klavye açıkken de ana eyleme ulaşılmalı.</text>
+<!-- Screen three -->
+<rect x="818" y="170" width="330" height="478" rx="27" fill="#fff" stroke="#c8c9cb" stroke-width="2"/>
+<text x="844" y="207" font-size="13" fill="#62646b">03 / TERCİHLER</text>
+<text x="844" y="246" font-size="27" font-weight="700">Ayarlar</text>
+<text x="844" y="292" font-size="17" font-weight="700">Görünüm</text>
+<rect x="842" y="308" width="282" height="52" rx="11" fill="#f3f4f7"/>
+<rect x="847" y="313" width="132" height="42" rx="8" fill="#fff" stroke="#d4d6dc"/>
+<text x="913" y="341" text-anchor="middle" font-size="17" font-weight="700">Açık</text>
+<text x="1050" y="341" text-anchor="middle" font-size="17" fill="#62646b">Koyu</text>
+<text x="844" y="417" font-size="17" font-weight="700">Bu cihazdaki veriler</text>
+<text x="844" y="448" font-size="15" fill="#62646b">Tüm listeleri silmeden önce</text>
+<text x="844" y="471" font-size="15" fill="#62646b">kapsamı ve onayı gösterin.</text>
+<rect x="842" y="502" width="282" height="49" rx="11" fill="#fff" stroke="#aeb1b8"/>
+<text x="983" y="532" text-anchor="middle" font-size="17">Veri temizlemeyi incele</text>
+<line x1="842" y1="564" x2="1124" y2="564" stroke="#e3e4e7"/>
+<text x="882" y="604" font-size="16" fill="#62646b">Listeler</text>
+<text x="1026" y="604" font-size="16" font-weight="700" fill="#2547c9">Ayarlar</text>
+<text x="52" y="697" font-size="16" font-weight="700">Planla → prototipi oluştur → telefonda doğrula</text>
+<text x="1148" y="697" text-anchor="end" font-size="14" fill="#62646b">Özgün örnek · CC BY 4.0 · brainbaby.ai</text>
+</g></svg>

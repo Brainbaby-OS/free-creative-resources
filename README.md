@@ -24,6 +24,12 @@ Use the [free presentation compatibility checklist](resources/en/presentation-co
 
 Read the [PowerPoint alternatives guide for Mac and AI drafting](https://brainbaby.ai/blog/powerpoint-alternatives?utm_source=github&utm_medium=referral&utm_campaign=presentation-compatibility-checklist) to match the working environment to the handoff. The checklist is CC BY 4.0 and needs no account. It does not enable macros, generate slides or include product credits. Use a source you have permission to review and keep private client details out of public results.
 
+## Plan a mobile interface in Turkish
+
+Use the original [editable screen plan](resources/tr/mobil-uygulama-ekran-plani.md), [12-item CSV review record](resources/tr/mobil-uygulama-ekran-plani.csv), and [three-screen drawing](resources/tr/mobil-uygulama-tasarimi.svg) ([WebP preview](resources/tr/mobil-uygulama-tasarimi.webp)) for a fictional shopping-list app. The drawing is a proposed layout, not a working app screenshot or a device-test result. Every CSV result field is blank.
+
+The [Turkish mobile app design guide](https://brainbaby.ai/tr/blog/mobil-uygulama-tasarimi?utm_source=github&utm_medium=referral&utm_campaign=mobile-design-plan) explains navigation, keyboard behavior, validation, empty states and review on the target phone. These four planning files are CC BY 4.0 and can be downloaded without an account. They contain no APK, app source, product credits or store approval. Brainbaby app generation and revisions are separate credit-consuming actions. Existing release ZIPs are unchanged; download these new files individually.
+
 ## Start with one resource
 
 - **Editing a product photo?** Use the [English fillable PDF](resources/en/image-editing-checklist.pdf) or [editable Markdown worksheet](resources/en/image-editing-checklist.md). Record the change, the details to preserve and your review checks.
@@ -111,3 +117,5 @@ The first release mirrors the published Brainbaby resource files on **2026-10-05
 The **2026-10-17 presentation edition** adds the presentation comparison worksheet and blank scorecard, plus the separately labeled example folder. All 26 prior resource files and older release assets are preserved. [presentation-example-manifest.json](presentation-example-manifest.json) records the six unchanged public sample artifacts. The new presentation ZIP is separate from the older 22-file English/Turkish archive.
 
 The **2026-10-19 compatibility edition** adds one English Markdown handoff worksheet. All 28 previous resource files and the six public example artifacts remain unchanged. [The presentation-edition manifest](resource-manifest-2026-10-17-presentations.json) preserves the previous checksums. Existing release ZIPs have not been rebuilt; download the new checklist individually.
+
+The **2026-10-19 mobile-design edition** adds four original Turkish planning assets. All 29 previous resource files and six example artifacts remain unchanged. [The compatibility-edition manifest](resource-manifest-2026-10-19-compatibility.json) preserves their prior checksums. No existing release archive was rebuilt.

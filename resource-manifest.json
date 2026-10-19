@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-19-compatibility",
+  "edition": "2026-10-19-mobile-design",
   "publisher": "Brainbaby",
   "files": [
     {
@@ -175,7 +175,31 @@
       "bytes": 5074,
       "sha256": "797e2c33fbd0fabfeae1ac0c1ad203c7cc52544e59831cd85ff859295e10f930",
       "source_url": "https://brainbaby.ai/templates/en/presentation-compatibility-checklist.md"
+    },
+    {
+      "path": "resources/tr/mobil-uygulama-ekran-plani.md",
+      "bytes": 4969,
+      "sha256": "f485562044051b4a0b112e263a7999ca5a426a6f01d5b8f33f18cbb87868a3f6",
+      "source_url": "https://brainbaby.ai/templates/tr/mobil-uygulama-ekran-plani.md"
+    },
+    {
+      "path": "resources/tr/mobil-uygulama-ekran-plani.csv",
+      "bytes": 966,
+      "sha256": "78ef2f9e225913f26d3f16df46c9af4ddb6660272c1276e14df1d2e6cdb96a0a",
+      "source_url": "https://brainbaby.ai/templates/tr/mobil-uygulama-ekran-plani.csv"
+    },
+    {
+      "path": "resources/tr/mobil-uygulama-tasarimi.svg",
+      "bytes": 4661,
+      "sha256": "5a6357164a96a1104a331f912e68823c30cc49f237469364b4155969a9347221",
+      "source_url": "https://brainbaby.ai/images/guides/mobil-uygulama-tasarimi.svg"
+    },
+    {
+      "path": "resources/tr/mobil-uygulama-tasarimi.webp",
+      "bytes": 43100,
+      "sha256": "626bca9a44312b8593f47b8334ece6f92558c0d8123eeafddaf4e6d2194fe41b",
+      "source_url": "https://brainbaby.ai/images/guides/mobil-uygulama-tasarimi.webp"
     }
   ],
-  "previous_edition": "2026-10-17-presentations"
+  "previous_edition": "2026-10-19-compatibility"
 }

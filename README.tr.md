@@ -6,6 +6,17 @@ Bir yapay zekâ aracını açmadan önce görsel düzenleme isteğinizi veya sun
 
 [**22 dosyalık Türkçe/İngilizce sürümü ZIP olarak indir**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Sürüm bilgileri](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
+## Mobil uygulama ekran planı
+
+Üç ekranlı hayali alışveriş listesi örneğiyle ilk sürümü planlayın:
+
+- [Düzenlenebilir ekran planı ve kabul koşulları (.md)](resources/tr/mobil-uygulama-ekran-plani.md)
+- [12 maddelik boş kontrol kaydı (.csv)](resources/tr/mobil-uygulama-ekran-plani.csv)
+- [Özgün üç ekran çizimi (.svg)](resources/tr/mobil-uygulama-tasarimi.svg) · [WebP önizleme](resources/tr/mobil-uygulama-tasarimi.webp)
+- [Mobil uygulama tasarımı rehberi](https://brainbaby.ai/tr/blog/mobil-uygulama-tasarimi?utm_source=github&utm_medium=referral&utm_campaign=mobile-design-plan)
+
+Çizim bir yerleşim önerisidir; çalışan uygulamanın ekran görüntüsü veya cihaz testi değildir. CSV sonuç alanları boştur; gerçek kontrollerden sonra doldurun. Dört dosya CC BY 4.0 lisanslıdır ve hesap olmadan indirilebilir. APK, uygulama kaynak kodu, ürün kredisi veya mağaza onayı içermez. Brainbaby oluşturucusunda üretim ve değişiklikler ayrıca uygulama oluşturma kredisi kullanır. Eski ZIP sürümleri değişmedi; yeni dosyaları ayrı ayrı indirin.
+
 ## Gerçek bir sunum çıktısını inceleyin
 
 [İngilizce dört slaytlık Brainbaby örneği](examples/presentations/community-garden/README.md) PDF, düzenlenebilir PowerPoint ve dört PDF önizlemesi içerir. Örnek 2 Ekim 2026 tarihinde üretildi; aynı gün bir gövde metni değişikliği kaydedildi ve 17 Ekim tarihinde dışa aktarıldı. Bahçe ve program hayalîdir; bu bir müşteri sonucu veya karşılaştırmalı performans testi değildir.

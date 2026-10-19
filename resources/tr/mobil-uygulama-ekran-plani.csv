@@ -1,0 +1,13 @@
+Kontrol kimliği,Ekran,İşlem,Beklenen sonuç,Görülen sonuç,Cihaz ve sürüm,Sonuç,Not
+L01,Listeler,İlk açılış,Boş durum ve Yeni liste eylemi,,,,
+L02,Listeler,Liste oluştur,Liste adı kaydedilir ve görünür,,,,
+L03,Listeler,Silmeyi iptal et,Liste korunur,,,,
+L04,Listeler,Silmeyi onayla,Açıklanan liste kaldırılır,,,,
+D01,Liste ayrıntısı,Ürün ekle; uygulamayı yeniden aç,Ürün ve miktar korunur,,,,
+D02,Liste ayrıntısı,Boş ad gönder,Kayıt yapılmaz; hata açıklanır,,,,
+D03,Liste ayrıntısı,Uzun ad ve Türkçe karakter gir,Metin okunur; taşmaz,,,,
+D04,Liste ayrıntısı,Klavyeyle ürün ekle,Ana eyleme ulaşılır,,,,
+D05,Liste ayrıntısı,Alınan ürünü işaretle,Durum renk dışında da anlaşılır,,,,
+A01,Ayarlar,Görünümü değiştir,Metin ve kontroller kullanılabilir,,,,
+A02,Ayarlar,Veri temizlemeyi iptal et,Veri korunur,,,,
+A03,Ayarlar,Veri temizlemeyi onayla,Yalnızca açıklanan yerel veri temizlenir,,,,
