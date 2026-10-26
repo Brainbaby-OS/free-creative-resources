@@ -6,6 +6,28 @@ Plan an image edit or a presentation before opening an AI tool. This library con
 
 [**Download the English/Turkish edition (22-file ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.06/brainbaby-free-creative-resources-2026-10-06.zip) · [Release details](https://github.com/Brainbaby-OS/free-creative-resources/releases/tag/v2026.10.06)
 
+## Plan coding, client work and meeting follow-ups
+
+[**Download the 10-file work-template collection (.zip)**](resources/brainbaby-work-templates-2026-10-26.zip) · [Source manifest and checksums](resource-manifest-2026-10-26-work-templates.json)
+
+Nine original blank worksheets and one fictional test-case CSV, published as a separate October 26 collection. The archive also contains a README and source manifest. It contains no customer records, executed tests, generated app, performance benchmark or product credits. These planning files are CC BY 4.0; existing release ZIPs are unchanged.
+
+| Task | Editable files | Worked guide |
+| --- | --- | --- |
+| Test cases | [Blank worksheet](resources/en/test-case-worksheet.md) · [Fictional CSV](resources/en/test-case-example.csv) | [Draft test cases from requirements](https://brainbaby.ai/blog/ai-test-case-generator) |
+| Bug reports | [Worksheet](resources/en/bug-report-worksheet.md) | [Separate observations from expected behavior](https://brainbaby.ai/blog/ai-bug-report-generator) |
+| Release notes | [Worksheet](resources/en/release-notes-worksheet.md) | [Keep approved changes and public availability distinct](https://brainbaby.ai/blog/ai-release-notes-generator) |
+| Product requirements | [Worksheet](resources/en/prd-worksheet.md) | [Prepare a reviewable PRD](https://brainbaby.ai/blog/ai-prd-generator) |
+| RFP responses | [Worksheet](resources/en/rfp-response-worksheet.md) | [Link answers to supplier evidence](https://brainbaby.ai/blog/ai-rfp-response-generator) |
+| Client reporting | [Worksheet](resources/en/monthly-client-report-worksheet.md) | [Review periods, metrics and next actions](https://brainbaby.ai/blog/monthly-client-report-template) |
+| Proposals | [Worksheet](resources/en/discovery-call-proposal-worksheet.md) | [Separate agreed scope from options](https://brainbaby.ai/blog/ai-discovery-call-to-proposal) |
+| Case studies | [Evidence worksheet](resources/en/customer-case-study-evidence-worksheet.md) | [Preserve evidence and customer approval](https://brainbaby.ai/blog/ai-case-study-generator) |
+| Meeting follow-ups | [Worksheet](resources/en/meeting-action-items-worksheet.md) | [Separate agreed tasks from conditional proposals](https://brainbaby.ai/blog/meeting-notes-to-action-items) |
+
+Download, adapt and review these files without a Brainbaby account. They do not send email, create tasks, run tests or publish releases. The CSV contains six unrun draft cases and two blocked questions, not execution evidence. Keep private project details out of public copies.
+
+For the product workflow, [inspect the coding workspace and local example](https://brainbaby.ai/coding), [review a real presentation and its exports](https://brainbaby.ai/presentation-maker#generated-presentation-example), or [prepare an email-writing brief](https://brainbaby.ai/ai-email-writer). AI work begins only when you choose to submit the relevant request and uses your account allowance.
+
 ## Compare presentation tools with a real exported deck
 
 [**Download the presentation evaluation kit (13-file ZIP)**](https://github.com/Brainbaby-OS/free-creative-resources/releases/download/v2026.10.17-presentations/brainbaby-presentation-evaluation-kit-2026-10-17.zip) · [Read the original request and review notes](examples/presentations/community-garden/README.md)

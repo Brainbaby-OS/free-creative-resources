@@ -1,0 +1,9 @@
+Case ID,Source,Title,Preconditions,Steps,Expected result,Planning status,Actual result,Execution evidence,Tester,Run date,Build,Disclosure
+TC-1,R-1; R-2; R-3,Trim and accept a valid topic,Empty local demo list,1. Enter two spaces + Woodworking + two spaces; 2. Submit once,One pending item named Woodworking appears,Not run,,,,,,Fictional teaching example; no test executed
+TC-2,R-1,Reject whitespace topic,Record current local item count,1. Enter three ordinary spaces; 2. Submit once,Value rejected; no item added,Not run,,,,,,Fictional teaching example; no test executed
+TC-3,R-2; R-3,Accept ASCII upper boundary,Empty local demo list,1. Enter exactly 80 ASCII A characters; 2. Submit once,One pending item with the entered topic appears,Not run,,,,,,Fictional teaching example; no test executed
+TC-4,R-2,Reject above ASCII upper boundary,Record current local item count,1. Enter exactly 81 ASCII A characters; 2. Submit once,Topic rejected; no item added,Not run,,,,,,Fictional teaching example; no test executed
+TC-5,R-5,Display empty state,Local list has no requests,1. Open the request list,No requests yet is visible,Not run,,,,,,Fictional teaching example; no test executed
+TC-6,R-4,Filter pending requests,Item A is pending; item B is reviewed,1. Select Pending; 2. Inspect visible rows,Only item A is visible,Not run,,,,,,Fictional teaching example; no test executed
+TC-7,TO CONFIRM,Repeated submit decision,Requirement not approved,Proposed only: two rapid valid submissions,TO CONFIRM: duplicate-prevention behavior needs approval,Blocked — requirement undecided,,,,,,Fictional teaching example; no test executed
+TC-8,TO CONFIRM,Storage failure decision,Requirement not approved,Proposed only: a local storage write failure,TO CONFIRM: failure message and retained input need approval,Blocked — requirement undecided,,,,,,Fictional teaching example; no test executed

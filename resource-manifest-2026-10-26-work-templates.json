@@ -1,0 +1,87 @@
+{
+  "edition": "2026-10-26",
+  "files": [
+    {
+      "name": "test-case-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-test-case-generator",
+      "source": "https://brainbaby.ai/templates/en/test-case-worksheet.md",
+      "bytes": 1515,
+      "sha256": "e5884fe345965a3732e968fc85993a15d087fc98ea9c4bb140e44bac6e67b02a"
+    },
+    {
+      "name": "test-case-example.csv",
+      "kind": "fictional example; no tests executed",
+      "guide": "/blog/ai-test-case-generator",
+      "source": "https://brainbaby.ai/templates/en/test-case-example.csv",
+      "bytes": 1884,
+      "sha256": "480d0abb2503c8004bca29600702633155e90725bb014a39c349f78e8f5db403"
+    },
+    {
+      "name": "bug-report-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-bug-report-generator",
+      "source": "https://brainbaby.ai/templates/en/bug-report-worksheet.md",
+      "bytes": 1608,
+      "sha256": "e6b28fd7a61b88febf8d93372a03bc413ea34f8cd74198d2698c12ce30bb4ff8"
+    },
+    {
+      "name": "release-notes-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-release-notes-generator",
+      "source": "https://brainbaby.ai/templates/en/release-notes-worksheet.md",
+      "bytes": 1948,
+      "sha256": "0038a7113b4ff83b43f4b84a26a943d47192ff52092f69d1a9e68f38d0f95466"
+    },
+    {
+      "name": "prd-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-prd-generator",
+      "source": "https://brainbaby.ai/templates/en/prd-worksheet.md",
+      "bytes": 1750,
+      "sha256": "c65fbecfb2492942a21aeb6ab0fb2cf9aa27170a251539ee44b384de635c323b"
+    },
+    {
+      "name": "rfp-response-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-rfp-response-generator",
+      "source": "https://brainbaby.ai/templates/en/rfp-response-worksheet.md",
+      "bytes": 2775,
+      "sha256": "839e2937543da7efbaf73b6bfff06dc5bd10aef9fa2fce99c1a99c1c2bc983d7"
+    },
+    {
+      "name": "monthly-client-report-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/monthly-client-report-template",
+      "source": "https://brainbaby.ai/templates/en/monthly-client-report-worksheet.md",
+      "bytes": 2893,
+      "sha256": "944bcc2e9fbc39dd395f3ad157a2e32f02ebf7863223c2d1c8872ca30cc61e4f"
+    },
+    {
+      "name": "discovery-call-proposal-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-discovery-call-to-proposal",
+      "source": "https://brainbaby.ai/templates/en/discovery-call-proposal-worksheet.md",
+      "bytes": 2281,
+      "sha256": "ad37c7baed9aa69f050eb9319aa9fbfad1f266c2d974bc324e8f8e35106521c5"
+    },
+    {
+      "name": "customer-case-study-evidence-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/ai-case-study-generator",
+      "source": "https://brainbaby.ai/templates/en/customer-case-study-evidence-worksheet.md",
+      "bytes": 2541,
+      "sha256": "36ee7081fea55fac928dbe80314583276cb8100595a1707c5dac96dbad148b9f"
+    },
+    {
+      "name": "meeting-action-items-worksheet.md",
+      "kind": "blank worksheet",
+      "guide": "/blog/meeting-notes-to-action-items",
+      "source": "https://brainbaby.ai/templates/en/meeting-action-items-worksheet.md",
+      "bytes": 1696,
+      "sha256": "a647168074ce17787b443165f63155f6d69313be641085031b0313a2372e8c58"
+    }
+  ],
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+}
