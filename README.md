@@ -153,3 +153,6 @@ The **2026-10-19 mobile-design edition** adds four original Turkish planning ass
 The **2026-10-19 iOS-planning edition** adds one original Turkish checklist. All 33 previous resources and six example artifacts remain unchanged. [The mobile-design manifest](resource-manifest-2026-10-19-mobile-design.json) preserves the previous checksums. Existing release ZIPs were not rebuilt.
 
 The **2026-10-19 resume-summary edition** adds one original English writing worksheet. All 34 previous resources and six example artifacts remain unchanged. [The iOS-planning manifest](resource-manifest-2026-10-19-ios-planning.json) preserves their previous checksums. Existing release ZIPs were not rebuilt.
+
+
+The **2026-10-26 work-template edition** adds nine blank worksheets, one fictional test-case CSV and their ZIP. All 35 earlier resources and six presentation-example artifacts remain unchanged. [The resume-summary edition manifest](resource-manifest-2026-10-19-resume-summary.json) preserves their previous checksums. The current manifest includes the 46 resource files, including the new ZIP; its internal manifest separately identifies the ten source files. The integrity checker verifies both. No existing release archive was rebuilt.

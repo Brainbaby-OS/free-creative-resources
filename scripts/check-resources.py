@@ -52,7 +52,27 @@ assert len(re.findall(r'^- \[ \]', resume_notes, re.M)) == 8
 assert len(re.findall(r'^\| \[skill or role context\]', resume_notes, re.M)) == 3
 assert not re.search(r'^- \[x\]', resume_notes, re.M), 'Resume review fields must start empty'
 
-folder = root / 'examples/presentations/community-garden'
+# The current manifest must cover every distributed resource, including archives.
+resource_paths = {str(path.relative_to(root)) for path in (root / 'resources').rglob('*') if path.is_file()}
+assert resource_paths == {path for path in seen if path.startswith('resources/')}, 'Unmanifested resource or stale resource entry'
+work_manifest = json.loads((root / 'resource-manifest-2026-10-26-work-templates.json').read_text())
+assert len(work_manifest['files']) == 10
+with zipfile.ZipFile(root / 'resources/brainbaby-work-templates-2026-10-26.zip') as archive:
+    expected = {'README.md', 'manifest.json'} | {'resources/en/' + row['name'] for row in work_manifest['files']}
+    assert set(archive.namelist()) == expected
+    assert json.loads(archive.read('manifest.json')) == work_manifest
+    for row in work_manifest['files']:
+        data = archive.read('resources/en/' + row['name'])
+        assert data == (root / 'resources/en' / row['name']).read_bytes()
+        assert hashlib.sha256(data).hexdigest() == row['sha256']
+with (root / 'resources/en/test-case-example.csv').open(newline='') as file:
+    cases = list(csv.reader(file))
+assert len(cases) == 9 and all(len(row) == 13 for row in cases)
+assert sum(row[6] == 'Not run' for row in cases[1:]) == 6
+assert sum(row[6] == 'Blocked — requirement undecided' for row in cases[1:]) == 2
+assert all(not any(row[7:12]) for row in cases[1:]), 'Execution fields must remain blank'
+
+folder = root / 'examples/presentations/community-garden' 
 pdf = (folder / 'community-garden.pdf').read_bytes()
 assert pdf.startswith(b'%PDF-') and b'%%EOF' in pdf[-1024:]
 with zipfile.ZipFile(folder / 'community-garden.pptx') as file:
