@@ -72,7 +72,7 @@ assert sum(row[6] == 'Not run' for row in cases[1:]) == 6
 assert sum(row[6] == 'Blocked — requirement undecided' for row in cases[1:]) == 2
 assert all(not any(row[7:12]) for row in cases[1:]), 'Execution fields must remain blank'
 
-folder = root / 'examples/presentations/community-garden' 
+folder = root / 'examples/presentations/community-garden'
 pdf = (folder / 'community-garden.pdf').read_bytes()
 assert pdf.startswith(b'%PDF-') and b'%%EOF' in pdf[-1024:]
 with zipfile.ZipFile(folder / 'community-garden.pptx') as file:
